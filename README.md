@@ -20,20 +20,7 @@ You'll need an OpenAI API key to use this GUI.
 
 ## Screenshots (V1)
 
-<table>
-  <tr>
-    <td><img src="Screenshots/1.png" width="300"/></td>
-    <td><img src="Screenshots/2.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/3.png" width="300"/></td>
-    <td><img src="Screenshots/4.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/5.png" width="300"/></td>
-    <td><img src="Screenshots/6.png" width="300"/></td>
-  </tr>
-</table>
+<table> <tr> <td align="center"> <img src="Screenshots/1.png" alt="Screenshot 1" width="100%"><br> <em>Screenshot 1</em> </td> </tr> <tr> <td align="center"> <img src="Screenshots/2.png" alt="Screenshot 2" width="100%"><br> <em>Screenshot 2</em> </td> </tr> <tr> <td align="center"> <img src="Screenshots/3.png" alt="Screenshot 3" width="100%"><br> <em>Screenshot 3</em> </td> </tr> <tr> <td align="center"> <img src="Screenshots/4.png" alt="Screenshot 4" width="100%"><br> <em>Screenshot 4</em> </td> </tr> <tr> <td align="center"> <img src="Screenshots/5.png" alt="Screenshot 5" width="100%"><br> <em>Screenshot 5</em> </td> </tr> <tr> <td align="center"> <img src="Screenshots/6.png" alt="Screenshot 6" width="100%"><br> <em>Screenshot 6</em> </td> </tr> <tr> <td align="center"> <img src="Screenshots/7.png" alt="Screenshot 7" width="100%"><br> <em>Screenshot 7</em> </td> </tr> <tr> <td align="center"> <img src="Screenshots/8.png" alt="Screenshot 8" width="100%"><br> <em>Screenshot 8</em> </td> </tr> </table>
 
 
 ## Author
