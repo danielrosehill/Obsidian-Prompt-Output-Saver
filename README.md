@@ -1,0 +1,1 @@
+# obsidian-prompt-output-saver
